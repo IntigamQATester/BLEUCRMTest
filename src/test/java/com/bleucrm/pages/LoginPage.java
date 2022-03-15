@@ -31,6 +31,9 @@ public class LoginPage extends BasePage{
     @FindBy(css = "div[class='popup-window-content']")
     public WebElement fieldsList;
 
+
+
+
     
 //    public void login() throws InterruptedException {
 //        String url = ConfigurationReader.get("url");

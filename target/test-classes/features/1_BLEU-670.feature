@@ -1,11 +1,14 @@
 
 Feature: Filter and search functionality
 
+
 	Background:
 		Given HR User is on the login page
 		Then Hr enters the login credentials correctly
 		And HR is logged in succesfully
-		When HR clicks "filter and search" functionality
+		When User navigates to Message Tag
+
+	##	When HR clicks "filter and search" functionality
 
 
 
